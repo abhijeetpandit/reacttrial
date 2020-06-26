@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+.myh1 {
+  display: inline-block;
+  padding: 10px 5px;
+  margin: 0px 0px;
+  background-color: #9e4949;
+}
+
+
+.Hook3Button {
+  padding: 5px 10px;
+  border: none;
+  color: white;
+  background-color: #53854a;
+  border-radius: 3px;
+  margin: 2px;
+}

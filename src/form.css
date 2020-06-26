@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+.loginPage {
+    background-color: #c7ecbd;
+}
+
+.fieldContainer {
+    padding: 5px 15px;
+}
+
+.fieldContainer label {
+    margin: 5px;
+}
+
+.buttonsContainer {
+    padding: 5px 15px;
+}
